@@ -1,0 +1,57 @@
+{
+  "doc-26b70bcb25c48c30ce81c6a5c453d7ec": {
+    "entity_names": [
+      "Lucas Pereira",
+      "Spanish Market Expansion",
+      "TechNova",
+      "Orion",
+      "Maria Santos",
+      "ML Pipeline Module",
+      "RetailCo",
+      "Carla Mendes",
+      "SAP Portugal",
+      "Jorge Ferreira",
+      "Iberian Market",
+      "Sofia Costa"
+    ],
+    "count": 12,
+    "create_time": 1776799381,
+    "update_time": 1776799381,
+    "_id": "doc-26b70bcb25c48c30ce81c6a5c453d7ec"
+  },
+  "doc-9049a6def58666ef149896d797cc954e": {
+    "entity_names": [
+      "Orion V3.0",
+      "GlobalBank",
+      "Unbabel",
+      "Carla Mendes",
+      "David Oliveira",
+      "Linklaters",
+      "Sofia Costa",
+      "EU AI Act",
+      "Ana Rodrigues",
+      "RetailCo",
+      "Orion Platform",
+      "Jorge Ferreira",
+      "TechNova Annual Strategy Report Q4 2023",
+      "Pedro Nunes",
+      "António Carvalho",
+      "ML Pipeline",
+      "Farfetch",
+      "Madrid",
+      "TechNova",
+      "Lisbon",
+      "Revolut",
+      "Porto",
+      "Spanish Market Expansion",
+      "Apollo System",
+      "Maria Santos",
+      "CNPD",
+      "CNPD Audit"
+    ],
+    "count": 27,
+    "create_time": 1776799418,
+    "update_time": 1776799418,
+    "_id": "doc-9049a6def58666ef149896d797cc954e"
+  }
+}

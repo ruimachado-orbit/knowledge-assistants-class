@@ -1,0 +1,5 @@
+.env
+.venv/
+query_routing_graph.png
+knowledge_graph.png
+lab1_graphrag_lightrag.executed.ipynb
